@@ -30,3 +30,7 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 
+let frame = document.getElementById('preview-frame');
+frame.src = window.location.search.split('?url=')[1];
+
+
