@@ -226,9 +226,9 @@ body {
 }
 
 .preview-mobile {
-    width: 400px;
+    width: 450px;
     height: 100%;
-    left: calc(50% - 200px);
+    left: calc(50% - 225px);
     top: 0;
     margin-top: 10px
 }
